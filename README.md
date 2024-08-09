@@ -25,6 +25,8 @@ Hezartech is committed to advancing machine learning and AI by providing high-qu
 4. GenerativeAI_Datasets: Datasets that generates data with Generative AI.
 5. Mixin_Datasets: Mixed up datasets for general purpose training-finetune our model.
 
+P.S: 15 thousand post data was pulled from X (formerly Twitter). However, after the jury's recommendation, that data set was not uploaded to Github.
+
 ## Usage
 
 To use these datasets, you can clone the repository and load the datasets using your preferred programming language or tool.
