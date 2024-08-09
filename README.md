@@ -1,15 +1,17 @@
+![LOGO_PNG](https://raw.githubusercontent.com/HEZARTECH/.github/main/profile/assets/HEZARTECH_LOGO.png)
+
 # Hezartech Datasets
 
 Welcome to the Hezartech Datasets repository. This repository contains various datasets curated and maintained by Hezartech for machine learning, data science, and AI research purposes.
 
 ## Table of Contents
 
-* About
-* Datasets
-* Usage
-* Contributing
-* License
-* Contact
+* [About](#about)
+* [Datasets](#datasets<>)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
 
 ## About
 
@@ -17,23 +19,11 @@ Hezartech is committed to advancing machine learning and AI by providing high-qu
 
 ## Datasets
 
-1. Sentiment Analysis Dataset
-Description: A dataset containing text data with labeled sentiments.
-Size: 10,000 entries
-Format: CSV
-Usage: Sentiment analysis, NLP tasks
-
-2. Company Names Dataset
-Description: A dataset containing various company names extracted from news articles, financial reports, etc.
-Size: 5,000 entries
-Format: JSON
-Usage: Named entity recognition, text classification
-
-3. Custom Dataset
-Description: A custom dataset for specific machine learning tasks.
-Size: Variable
-Format: CSV/JSON
-Usage: Depends on the dataset
+1. Amazon: Amazon product comments with 1, 4 and 5 stars within text data.
+2. X_Twitter: X post's that sent to a firm (we filter tweets via queries)
+3. SikayetVar: SikayetVar articles data.
+4. GenerativeAI_Datasets: Datasets that generates data with Generative AI.
+5. Mixin_Datasets: Mixed up datasets for general purpose training-finetune our model.
 
 ## Usage
 
