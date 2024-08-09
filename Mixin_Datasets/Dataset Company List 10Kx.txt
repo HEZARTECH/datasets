@@ -1,6 +1,5 @@
 UPSTurkiye 
 IKEATurkiye
-İade süreci
 McDonalds
 KAREL ELEKTRONİK
 Doğa sigorta
@@ -2090,7 +2089,6 @@ senseyhanem01
 YasarKaygisiz
 mediaMarktTR
 PES 2014
-çiçeksepetipişmanlıktır
 enerjisanolcak
 Eczane
 A**** S*****
@@ -6081,7 +6079,6 @@ TC_icisleri
 issanat
 Hepsiburada 
 Vodafone evde İnternet
-Pişmanlık
 Devlet_Personel
 Show TV
 Chrome
